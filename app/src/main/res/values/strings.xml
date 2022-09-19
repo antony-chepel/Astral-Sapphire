@@ -4,10 +4,5 @@
     <string name="facebook_app_id">2932858960352491</string>
     <string name="fb_login_protocol_scheme">fb2932858960352491</string>
 
-    <string-array name="cities">
-        <item>Kiev</item>
-        <item>Kiev</item>
-        <item>Kiev</item>
-        <item>Kiev</item>
-    </string-array>
+  
 </resources>
